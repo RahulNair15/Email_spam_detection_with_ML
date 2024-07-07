@@ -1,2 +1,1 @@
-Phase 2 Project 
-Normal Task
+Email_spam_detection_with_ML
